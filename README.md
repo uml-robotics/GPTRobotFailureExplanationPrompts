@@ -2,9 +2,9 @@
 
 Please find our system and user prompts here:  
 System:  
-[GEN](https://github.com/uml-robotics/GPTRobotFailureExplanationPrompts/blob/main/GEN-System-Prompt.md)  
-[GEN+C](https://github.com/uml-robotics/GPTRobotFailureExplanationPrompts/blob/main/GEN%2BC-System-Prompt.md)  
+[GEN](https://github.com/uml-robotics/GPTRobotFailureExplanationPrompts/blob/main/GEN/GEN-System-Prompt.md)  
+[GEN+C](https://github.com/uml-robotics/GPTRobotFailureExplanationPrompts/blob/main/GEN-C/GEN%2BC-System-Prompt.md)  
   
 User:  
-[GEN](https://github.com/uml-robotics/GPTRobotFailureExplanationPrompts/blob/main/GEN-User-Prompt.md)  
-[GEN+C](https://github.com/uml-robotics/GPTRobotFailureExplanationPrompts/blob/main/GEN%2BC-User-Prompt.md)  
+[GEN](https://github.com/uml-robotics/GPTRobotFailureExplanationPrompts/blob/main/GEN/GEN-User-Prompt.md)  
+[GEN+C](https://github.com/uml-robotics/GPTRobotFailureExplanationPrompts/blob/main/GEN-C/GEN%2BC-User-Prompt.md)  
